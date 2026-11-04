@@ -1,0 +1,2 @@
+6a6063c50fc212f79014603f5c27619b626623f23f92a1513c3d8e2cf8f95ca5  YouTubeSkipHelper-0.3.0-native-sources.zip
+2e87b96f65c6c4c82339d0ba37308abe4a2d8fd5d33c409400bfb46fb33efa87  YouTubeSkipHelper-0.3.0-native.apk
